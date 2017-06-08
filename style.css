@@ -1,0 +1,21 @@
+h1, strong
+{
+	color: red;
+}
+p
+{
+	font-size: 18px;
+}
+h1
+{
+	font-size: 40px;
+}
+.imageflottante
+{
+    float: left;
+}
+.imageflottante1
+{
+    float:right;
+}
+
