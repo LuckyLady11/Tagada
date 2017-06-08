@@ -1,6 +1,7 @@
-h1, strong
+h1, h3, strong
 {
 	color: red;
+	text-align: center;
 }
 p
 {
